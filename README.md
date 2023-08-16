@@ -21,3 +21,5 @@
  
 
 </div>
+
+  ![snake gif](https://github.com/ViniciusFreitas-Dev/ViniciusFreitas-Dev/output/github-contribution-grid-snake.svg)
